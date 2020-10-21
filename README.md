@@ -1,5 +1,5 @@
 # NoBoxAttack
-![alt text](https://github.com/joeybose/Adversarial-Example-Games/logistic_regression.gif "Logistic Regression")
+![alt text](https://github.com/joeybose/Adversarial-Example-Games/blob/main/logistic_regression.gif "Logistic Regression")
 This repo contains code for the NeurIPS 2020 paper ["Adversarial Example Games"](https://arxiv.org/abs/2007.00720)
 
 If this repository is helpful in your research, please consider citing us.
