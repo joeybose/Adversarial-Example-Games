@@ -1,5 +1,5 @@
 # NoBoxAttack
-
+![alt text](https://github.com/joeybose/Adversarial-Example-Games/logistic_regression.gif "Logistic Regression")
 This repo contains code for the NeurIPS 2020 paper ["Adversarial Example Games"](https://arxiv.org/abs/2007.00720)
 
 If this repository is helpful in your research, please consider citing us.
@@ -41,7 +41,7 @@ Please refer to the attacks sub-directory to find example commands while the
 defenses subdirectory contains various defenses.
 
 ## Directory Structure
-To reproduce our results and to ensure that the commands provided in other README's please ensure that you download all our models 
+To reproduce our results and to ensure that the commands provided in other README's please ensure that you download all our models
 (or re-train them) and each following subdirectory has the following structure. Some of this will be automated when you run the setup scripts.
 Each of the following trees are subdirectories with trained models. You may have to either copy them or use `mkdir` command to create these.
 ### Data Directory
