@@ -38,7 +38,7 @@ ipdb \
 ```
 
 ## Sample Commands
-Please refer to the attacks sub-directory to find example commands while the
+Please refer to the [attacks sub-directory](attacks/) to find example commands while the
 defenses subdirectory contains various defenses.
 
 ## Directory Structure
