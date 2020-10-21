@@ -1,4 +1,4 @@
-# NoBoxAttack
+# Adversarial Example Games
 ![alt text](https://github.com/joeybose/Adversarial-Example-Games/blob/main/aeg_log_reg.gif "AEG Logistic Regression")
 
 This repo contains code for the NeurIPS 2020 paper ["Adversarial Example Games"](https://arxiv.org/abs/2007.00720)
