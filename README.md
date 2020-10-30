@@ -8,7 +8,7 @@ If this repository is helpful in your research, please consider citing us.
 @article{bose2020adversarial,
   title={Adversarial Example Games},
   author={Bose, Avishek Joey and Gidel, Gauthier and Berard, Hugo and Cianflone, Andre and Vincent, Pascal and Lacoste-Julien, Simon and Hamilton, William L},
-  journal={arXiv preprint arXiv:2007.00720},
+  journal={Thirty-fourth Conference on Neural Information Processing Systems},
   year={2020}
 }
 ```
