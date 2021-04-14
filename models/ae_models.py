@@ -6,7 +6,6 @@ from torch.autograd import Variable
 from torch.distributions.multivariate_normal import MultivariateNormal
 import ipdb
 from torch.distributions import Normal
-from flows import *
 
 
 class BlackAttack(nn.Module):
